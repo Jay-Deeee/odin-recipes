@@ -1,0 +1,2 @@
+This is the first project in The Odin Project where the objective is to create a simple website using HTML
+the contents of the website will be food recipes making use of everything learned about HTML to this point.
